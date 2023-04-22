@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Raj</h1>
-<h3 align="left">A passionate Software developer (Learning MEVN Stack)</h3>
+<h3 align="left">A passionate Software developer (Learning MERN Stack)</h3>
 <img align="right" alt="coding Img" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 
