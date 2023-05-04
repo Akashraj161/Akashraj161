@@ -11,6 +11,19 @@
 
 - 📫 How to reach me **akashraj0409@gmail.com**
 
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://akashshares.hashnode.dev/what-is-an-execution-context-in-javascript" title="What is an Execution Context in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680444616627/273b1f12-a29a-4610-b140-f889e4ab1668.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="What is an Execution Context in JavaScript" width="250px" align="left" /></a>
+<a href="https://akashshares.hashnode.dev/what-is-an-execution-context-in-javascript" title="What is an Execution Context in JavaScript"><strong>What is an Execution Context in JavaScript</strong></a>
+<br/> Execution Context is an environment or a container inside which JavaScript code is executed. The blog post offers a detail explanation about Execution Context and behind the scene of how code in JavaScript is executed....
+... </p> <br/> <br/>
+<p align="left">
+<a href="https://akashshares.hashnode.dev/difference-between-null-undefined-and-not-defined-in-javascript" title="Difference between Null, Undefined and Not defined in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bmJAXAz6ads/upload/6f886f10fb4adab0512fd24ee6765f1c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Difference between Null ,Undefined and Not defined in JavaScript" width="250px" align="left" /></a>
+<a href="https://akashshares.hashnode.dev/difference-between-null-undefined-and-not-defined-in-javascript" title="Difference between Null, Undefined and Not defined in JavaScript"><strong>Difference between Null, Undefined and Not defined in JavaScript</strong></a>
+<br/> This blog offers you the basics about how Null, undefined and not defined are different from each other. This is a very commonly asked JavaScript Interview Question. If you really want to know the diff ...</p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
+
 <h4 align="left">Welcome to my profile</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashraj161&label=Profile%20views&color=0e75b6&style=flat" alt="akashraj161" /> </p>
 
@@ -20,6 +33,7 @@
 <a href="https://linkedin.com/in/akash raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash raj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akash_161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_161" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
